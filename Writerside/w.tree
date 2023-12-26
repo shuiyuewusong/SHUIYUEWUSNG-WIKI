@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="w"
+                 name="WIKI"
+                 start-page="wiki-of-shuiyue.md">
+
+    <toc-element topic="wiki-of-shuiyue.md"/>
+    <toc-element topic="编程语言.md">
+        <toc-element topic="JS-学习笔记.md"/>
+        <toc-element topic="JAVA-学习笔记.md"/>
+        <toc-element topic="RUST-学习笔记.md"/>
+    </toc-element>
+    <toc-element topic="LIUNX命令.md"/>
+</instance-profile>
